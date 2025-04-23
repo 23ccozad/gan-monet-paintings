@@ -1,4 +1,4 @@
-# NLP Disaster Tweets Kaggle Challenge
+# GAN Monet Paintings Kaggle Challenge
 This repo contains the Jupyter notebook used to create a generative adversarial network trained to transfer style between photographs and Monet paintings. The data came from the [I’m Something of a Painter Myself challenge](https://www.kaggle.com/competitions/gan-getting-started/) on Kaggle. This served as the assignment for week 5 in DTSA 5511: Introduction to Deep Learning at the University of Colorado Boulder.
 
 ## How to Explore This Project
